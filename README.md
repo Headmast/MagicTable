@@ -1,2 +1,2 @@
 # MagicTable
-It's a simple example using IUTableView.
+It's a simple example using UITableView.
